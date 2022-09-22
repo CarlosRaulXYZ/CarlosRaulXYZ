@@ -16,7 +16,7 @@
 
 - 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CrlsPrm&show_icons=true&theme=gotham" alt="CarlosRaulXYZ" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosRaulXYZ&show_icons=true&theme=gotham" alt="CarlosRaulXYZ" />
 
 <!---
 CrlsPrm/CrlsPrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
